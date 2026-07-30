@@ -12,10 +12,11 @@ uPerlin	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-uPerlin	KEYWORD2
+uperlin8	KEYWORD2
+uperlin16	KEYWORD2
+uperlin8Raw	KEYWORD2
+uperlin16Raw	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
-
-uPerlin	LITERAL1
